@@ -1,0 +1,6 @@
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/KevinFlorenciaMoragas/API_web_peliculas.git
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/KevinFlorenciaMoragas/Peliculas_Web_React
